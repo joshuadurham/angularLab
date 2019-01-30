@@ -33,6 +33,6 @@ Create a new service using 'ng generate service user-data', and add to this serv
 
 ## More Tasks
 
-If you get through the first few tasks of this lab, great job!  Keep adding more components that let you get a good feel for Angular's 
+If you get through the first few tasks of this lab, great job!  Keep adding more components that let you get a good feel for Angular's features and true power.  Look online for free Angular templates that give you a good place for starting to develop a full application.  For hackathon projects, I usually use [Creative Tim's nice Material design template](https://www.creative-tim.com/product/material-dashboard-angular2).  It has a lot of nice components and features that make developing a full app quick and easy.
 
 Make sure to refer to the slides or the online Angular documentation if you get stuck or want to learn more about a topic.  Ask questions if you need help, and have fun!
