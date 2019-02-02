@@ -7,6 +7,8 @@ This lab is from the 2019 Crash Course Talk for Angular 7 and TypeScript. The la
 
 If you want more information on the Angular framework and to learn more, check out [angular.io](https://angular.io) for more tutorials and up-to-date documentation
 
+For a general example of an Angular project, the key ideas discussed in the presentation, and other common features of Angular applications (user authentication, user profile management, database manipulation, etc.), check out [Thinkster's Angular Hello World App](https://github.com/gothinkster/angular-realworld-example-app)
+
 #### Downloading necessary software
 
 The three main pieces of software needed to work on this lab are [Node.js](https://nodejs.org/en/) with the Node Package Manage (NPM), [Angular CLI](https://cli.angular.io/). The download instructions should be fairly straightforward for each of the above pieces of software.  Following the steps on the Angular CLI website for installation should also install all other dependencies such as TypeScript.  For future development projects with Angular, I recommend using [Microsoft Visual Studio Code](https://code.visualstudio.com/).  I also personally work with some free VS Code extensions that make development easier in TypeScript, namely TSLint, Path Intellisense, Bracket Pair Colorizer, and Angular Language Service.  These extensions are widely popular and should be easy to find on the VS Code built-in extensions marketplace.
